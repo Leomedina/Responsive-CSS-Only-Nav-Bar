@@ -1,2 +1,2 @@
 # Responsive-CSS-Only-Nav-Bar
-A fully responsible HTML/CSS-only navigation bar using CSS-Grid.
+An experiment using CSS Grid to create a fully-responsibe navigation bar.
